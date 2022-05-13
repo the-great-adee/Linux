@@ -1,0 +1,7 @@
+hello@hotmail.com
+hello@gmail.com
+wow@yahoo.com
+querty@hOTmail.com
+sample@Hotmail.com
+
+Hello This is a sample text in Notepad file.
